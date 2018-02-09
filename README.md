@@ -1,37 +1,256 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/saikatx/New/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>HOSPITAL MANAGEMENT</title>
+		<link rel="stylesheet" type="text/css" href="pck.css">
+		<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet">
+		
+	</head>
+	<body>
+		<header class="siteHeader clear">
+			<div class="container">
+				<a href="pkc.html" class="logo"><img src="cool.jpg" alt="Saikat" height="42" width="42"></a>
+				<nav>
+					<ul>
+						<li><a href="pkc.html">Home</a></li>
+						<li><a href="cool.html">Contact Us</a></li>
+						<li><a href="#">Services</a></li>
+						<li><a href="#">About Us</a></li>
+					</ul>
+				</nav>	
+			</div>
+		</header>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		
+		<section class="mainBody">
+			<div class="homeBanner">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+				<img src="#" > <!--Have to give some default value but here i want to avoid the sysnc thats why i didn't use it-->
 
-### Markdown
+				<div class="bannerContent">
+					<br>
+					<br>
+					<br>
+					<br>
+					<br>
+					<br>
+					<br>
+					<br>
+					<br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+					<h1>HOSPITAL MANAGEMENT</h1>
+					<br>
+					<br>
+					<br>
+					<br>
+					<br>
+					<br>
+					<br>
+					<br>
+					<br>
+					<br>
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+					<p> A church is a hospital for sinners,not a museum for saints.</p>
+					<a href="#" class="viewMore">Read More</a>
+				</div>
+				<img scr="#"> <!--Have to give some default value but here i want to avoid the sysnc thats why i didn't use it-->
 
-1. Numbered
-2. List
+			</div>	
+			<div class="homeBanner">
+			<img src="k.jpg" alt="no-banner">
+			<div class="bannerContent">
+			
+			<br>
+			<br>
+			<br>
+			<br>
+			
+			
+			</div>
+			</div>
+				<div class="productSec clear">
+					<div class="container">
+						 <ul>
+							       <li>
+										<div class="imageBox">
+											<img src="pics/gfh.jpg" alt="no-product">
+										</div>
+										<div class="productDetail">
+										   <h2>services 1</h2>
+										   <p></p>
+										   <a href="#" class="addtoCart">Add to Cart</a>
+										</div>
+									</li>
+									 <li>
+									 <div class="imageBox">
+								        <img src="pics/emr.jpg" alt="no-product">
+									</div>
+										<div class="productDetail">
+										   <h2>services</h2>
+										   <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+										   <a href="#" class="addtoCart">Add to Cart</a>
+										</div>
+									</li>
+									 <li>
+									 <div class="imageBox">
+								        <img src="pics/op.jpg" alt="no-product">
+									</div>
+										<div class="productDetail">
+										   <h2>services</h2>
+										   <p>lorem Ipsum is simply dummy text of the printing and typesetting industry .</p>
+										   <a href="#" class="addtoCart">Add to Cart</a>
+										</div>
+									</li>
+									 <li>
+									 <div class="imageBox">
+								        <img src="pics/scan.jpg" alt="no-product">
+									</div>
+										<div class="productDetail">
+										   <h2>services</h2>
+										   <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry .</p>
+										   <a href="#" class="addtoCart">Add to Cart</a>
+										</div>
+									</li>
+									
+									 <li>
+									 <div class="imageBox">
+								        <img src="pics/4.png" alt="no-product">
+									</div>
+										<div class="productDetail">
+										   <h2>services</h2>
+										   <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry .</p>
+										   <a href="#" class="addtoCart">Add to Cart</a>
+										</div>
+									</li>
+									 <li>
+									 <div class="imageBox">
+								        <img src="image/5.png" alt="no-product">
+									</div>
+										<div class="productDetail">
+										   <h2>services</h2>
+										   <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry .</p>
+										   <a href="#" class="addtoCart">Add to Cart</a>
+										</div>
+									</li>
+									 <li>
+									<div class="imageBox">
+								        <img src="image/6.png" alt="no-product">
+									</div>
+										<div class="productDetail">
+										   <h2>services</h2>
+										   <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry .</p>
+										   <a href="#" class="addtoCart">Add to Cart</a>
+										</div>
+									</li>
+									 <li>
+									 <div class="imageBox">
+								        <img src="image/7.png" alt="no-product">
+									</div>
+										<div class="productDetail">
+										   <h2>services</h2>
+										   <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry .</p>
+										   <a href="#" class="addtoCart">Add to Cart</a>
+										</div>
+									</li>
+									<li>
+									<div class="imageBox">
+								        <img src="image/8.png" alt="no-product">
+									</div>
+										<div class="productDetail">
+										   <h2>services</h2>
+										   <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry .</p>
+										   <a href="#" class="addtoCart">Add to Cart</a>
+										</div>
+									</li>
+									<li>
+									<div class="imageBox">
+								        <img src="image/9.png" alt="no-product">
+									</div>
+										<div class="productDetail">
+										   <h2>services</h2>
+										   <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+										   <a href="#" class="addtoCart">Add to Cart</a>
+										</div>
+									</li>
+									<li>
+									<div class="imageBox">
+								        <img src="image/10.png" alt="no-product">
+									</div>
+										<div class="productDetail">
+										   <h2>services</h2>
+										   <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+										   <a href="#" class="addtoCart">Add to Cart</a>
+										</div>
+									</li>
+									<li>
+									<div class="imageBox">
+								        <img src="image/11.png" alt="no-product">
+									</div>
+										<div class="productDetail">
+										   <h2>services</h2>
+										   <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+										   <a href="#" class="addtoCart">Add to Cart</a>
+										</div>
+									</li>
+									<li>
+									<div class="imageBox">
+								        <img src="image/12.png" alt="no-product">
+									</div>
+										<div class="productDetail">
+										   <h2>services</h2>
+										   <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+										   <a href="#" class="addtoCart">Add to Cart</a>
+										</div>
+									</li>
+									<li>
+									<div class="imageBox">
+								        <img src="image/13.png" alt="no-product">
+									</div>
+										<div class="productDetail">
+										   <h2>services</h2>
+										   <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+										   <a href="#" class="addtoCart">Add to Cart</a>
+										</div>
+									</li>
+									<li>
+									<div class="imageBox">
+								        <img src="image/14.png" alt="no-product">
+									</div>
+										<div class="productDetail">
+										   <h2>servicse</h2>
+										   <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+										   <a href="#" class="addtoCart">Add to Cart</a>
+										</div>
+									</li>
+									<li>
+									<div class="imageBox">
+								        <img src="image/13.png" alt="no-product">
+									</div>
+										<div class="productDetail">
+										   <h2>services</h2>
+										   <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+										   <a href="#" class="addtoCart">Add to Cart</a>
+										</div>
+									</li>
+								</ul>		
+							</div>   
+				</div>
+				
+				
+				<div class="roundImg">
+					<img src="images/images.jpg" alt="no-image">
+				</div>
+            </section>
+			<footer></footer>
+	</body>
+</html>
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/saikatx/New/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ 
